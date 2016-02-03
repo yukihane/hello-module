@@ -15,5 +15,9 @@
       <groupId>com.github.yukihane.java</groupId>
       <artifactId>hello-module-if</artifactId>
     </dependency>
+    <dependency>
+      <groupId>com.github.yukihane.java</groupId>
+      <artifactId>hello-module-module2</artifactId>
+    </dependency>
   </dependencies>
 </project>
