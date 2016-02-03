@@ -27,5 +27,10 @@
       <groupId>com.github.yukihane.java</groupId>
       <artifactId>hello-module-plugin</artifactId>
     </dependency>
+    <dependency>
+      <groupId>com.ibm.icu</groupId>
+      <artifactId>icu4j</artifactId>
+      <version>4.8</version>
+    </dependency>
   </dependencies>
 </project>
